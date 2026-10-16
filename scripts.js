@@ -68,7 +68,7 @@ const isLearntEnoughLessonsOfGrade12 = false;
 
 
 // biến "nhảy"; điều kiện để vòng lặp còn nhảy; số bước "nhảy"
-for (let i = 0; i > 5; i++) {
+for (let i = 1; i > 5; i++) {
     console.log("Xin chao cac ban!")
 }
 
