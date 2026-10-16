@@ -65,32 +65,6 @@ const isLearntEnoughLessonsOfGrade12 = false;
 
 
 
-// if (c > 10) {
-//     console.log("C > 10")
-// }
-// else if (c <= 10 && c > 5) {
-//     console.log("C > 5 va C <= 10")
-// }
-// else {
-//     console.log("C <= 5")
-// }
-
-// const c = 50;
-
-// switch (c) {
-//     case 50: {
-//         console.log("C la 50");
-//         break;
-//     }
-//     case 40: {
-//         console.log("C la 40")
-//         break;
-//     }
-// }
-
-
-
-
 
 
 // biến "nhảy"; điều kiện để vòng lặp còn nhảy; số bước "nhảy"
